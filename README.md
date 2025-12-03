@@ -1,0 +1,1 @@
+A simple unsupervised learning project using PCA and Hierarchical Clustering on student performance data. Includes preprocessing, scaling, dimensionality reduction, and clustering to uncover hidden patterns and group students based on key academic features.
